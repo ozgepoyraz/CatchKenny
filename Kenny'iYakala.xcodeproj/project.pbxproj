@@ -13,6 +13,7 @@
 		76B2E7DF2875DE5500D1B4AC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76B2E7DD2875DE5500D1B4AC /* Main.storyboard */; };
 		76B2E7E12875DE5800D1B4AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76B2E7E02875DE5800D1B4AC /* Assets.xcassets */; };
 		76B2E7E42875DE5800D1B4AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76B2E7E22875DE5800D1B4AC /* LaunchScreen.storyboard */; };
+		76B2E7EC2876FAB400D1B4AC /* CustomTapGestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76B2E7EB2876FAB400D1B4AC /* CustomTapGestureRecognizer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		76B2E7E02875DE5800D1B4AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		76B2E7E32875DE5800D1B4AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		76B2E7E52875DE5800D1B4AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		76B2E7EB2876FAB400D1B4AC /* CustomTapGestureRecognizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTapGestureRecognizer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				76B2E7D72875DE5500D1B4AC /* AppDelegate.swift */,
 				76B2E7D92875DE5500D1B4AC /* SceneDelegate.swift */,
 				76B2E7DB2875DE5500D1B4AC /* ViewController.swift */,
+				76B2E7EB2876FAB400D1B4AC /* CustomTapGestureRecognizer.swift */,
 				76B2E7DD2875DE5500D1B4AC /* Main.storyboard */,
 				76B2E7E02875DE5800D1B4AC /* Assets.xcassets */,
 				76B2E7E22875DE5800D1B4AC /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76B2E7EC2876FAB400D1B4AC /* CustomTapGestureRecognizer.swift in Sources */,
 				76B2E7DC2875DE5500D1B4AC /* ViewController.swift in Sources */,
 				76B2E7D82875DE5500D1B4AC /* AppDelegate.swift in Sources */,
 				76B2E7DA2875DE5500D1B4AC /* SceneDelegate.swift in Sources */,
